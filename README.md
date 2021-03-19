@@ -1,5 +1,10 @@
 # Rock Paper Scissors x99
 
+To view the live version visit the website : 
+
+https://anasgamewap.netlify.app
+
+
 ## Project Overview
 
 In this project, I decided to make a more intense version of
@@ -20,3 +25,4 @@ equal, then a tie is declared.
 
 The player that wins the majority of the three rounds will be the winner of the game.
 
+As OF now I'm working on the implemetation for the Computer Player and It will be released Shortly
