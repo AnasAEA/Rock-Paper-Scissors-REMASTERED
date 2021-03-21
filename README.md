@@ -25,5 +25,8 @@ equal, then a tie is declared.
 
 The player that wins the majority of the three rounds will be the winner of the game.
 
+## How To Contribrute
+I have maide a test case using mocha for the different functionalities , but still some of them remain undone so if your intrested you can test it for your self and find a better implementation, make sure send a pull request.
+
 ## As OF now I'm working on the implemetation for the Computer Player 
 and It will be released Shortly.
