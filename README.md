@@ -25,4 +25,4 @@ equal, then a tie is declared.
 
 The player that wins the majority of the three rounds will be the winner of the game.
 
-As OF now I'm working on the implemetation for the Computer Player and It will be released Shortly
+# As OF now I'm working on the implemetation for the Computer Player and It will be released Shortly
